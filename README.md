@@ -4,7 +4,7 @@ Welcome to the Tic-Tac-Toe React application! This is a simple two-player game w
 
 #Live Demo
 Check out the live demo here
-https://sandhyakumari543.github.io/tictoc-app/
+https://sandhyakumari01.github.io/tictoc-app/
 
 .
 
@@ -23,7 +23,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/sandhyakumari543/tictoc-app.git
+git clone https://github.com/sandhyakumari01/tictoc-app.git
 Navigate to the project directory:
 
 bash
